@@ -5,7 +5,7 @@ jobs:
     runs-on: windows-latest
     steps:
       - name: print-greeting
-        run: echo"hellow"
+        run: echo "hellow"
       - name: print-goodbye
-        run: echo'Done-bye!"
+        run: echo "Done-bye!"
        
